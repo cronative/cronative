@@ -1,58 +1,32 @@
-Hello! I'm a seasoned iOS Developer with over 9+ years of experience, specializing in Flutter, React Native, and Ionic frameworks. I create exceptional mobile and desktop applications for iOS, Android, macOS, watchOS, and tvOS platforms. Let's turn your app ideas into reality with high-quality, user-centric, and performant solutions.
+# Hi there, I'm Nikunj 👋
 
-➢ Services I Offer:
-• 📱 Native iOS app development using Objective C, Swift and SwiftUI
-• 🌐 Cross-platform mobile app development with Flutter, React Native, and Ionic
-• 💻 Custom app solutions for iOS, Android, macOS, watchOS, and tvOS
-• 🔄 Full project lifecycle management from concept to deployment
-• ⚙️ Continuous Integration/Continuous Deployment (CI/CD) setup and maintenance
-• 🔗 Integration of third-party APIs and services
-• 🛠️ Ongoing maintenance and support for existing applications
-• 🚀 Expertise in MVP development for startups
-• 🔒 Blockchain and IoT app development
+### Mobile App Freelancer | iOS, Flutter, and React Native Developer
 
-➢ Why Choose Me:
-• 🏆 9+ years of mobile app development experience
-• ⏰ Working as an individual freelancer, available 24/7 and flexible to work within your budget
-• 📈 Proven track record with successful apps on App Store and Google Play
-• 💡 Expertise in both native and cross-platform development
-• 🎨 Focus on user experience (UX) and app performance
-• 📞 Reliable communication and dedicated project management
-• 🧑‍💻 Certified iOS Developer with advanced Swift programming skills
-• 🔧 Strong experience with Git and version control
-• 🛠️ Proficient in various Flutter state management solutions (Provider, Bloc, Riverpod)
-• 📦 Experienced with React Native and Redux for state management
+I’m a mobile app developer with expertise in iOS, Flutter, and React Native. I love building mobile apps that solve real-world problems, and I’m passionate about contributing to open-source projects.
 
-➢ Client Feedback:
-"Nick is an exceptional developer. He quickly understood our requirements and delivered a seamless, user-friendly app. Highly recommend!" - Sarah, Healthcare Startup
+- 🛠 **Skills:** Flutter, React Native, Swift, Objective-C, Dart, JavaScript
+- 🌍 **Website:** [nikunjm.com](http://nikunjm.com)
+- 💼 **Upwork:** [upwork.com/freelancers/nikunjm22](https://www.upwork.com/freelancers/nikunjm22)
+- 👨‍💻 **LinkedIn:** [linkedin.com/in/cronativedeveloper](https://www.linkedin.com/in/cronativedeveloper)
+- 📝 **Blog:** [nikunjm.com/blog](http://nikunjm.com/blog) *(If you have one, or plan to create one)*
 
-"Working with Nick was a game-changer. His expertise in Swift and Flutter helped us launch our app on both iOS and Android platforms efficiently." - John, E-commerce Business Owner
+### 📌 Pinned Repositories
 
-"Nick’s attention to detail and problem-solving skills are outstanding. Our social networking app exceeded all expectations." - Emily, Social Networking Platform Founder
+Check out some of my key projects:
 
-➢ Recent Projects:
-• 🎵 Developed a social music app with user profile picture upload functionality
-• 📞 Integrated audio and video calling in a Flutter app using Asterisk and Kamailio
-• 📱 Built a modular Swift app following the VIPER architecture with offline support using Realm
-• ⚡ Created a comprehensive EV charging app and CRM system
-I am passionate about mobile app development and committed to delivering top-notch solutions tailored to your needs. Let's collaborate to create something amazing!
+- [GreenChoice](https://play.google.com/store/apps/details?id=io.greenchoice.app) - A React Native app promoting sustainable shopping.
+- [Next Big Idea Club](https://apps.apple.com/us/app/next-big-idea-books-in-15min/id1502959151) - An app for learning from top books in 15 minutes.
 
-➢ Key Skills:
-• 📱 iOS and iPad app Development
-• 🧑‍💻 Swift & SwiftUI
-• 🌐 Flutter & FlutterFlow Development
-• 📲 React Native Development
-• 📱 Ionic Framework
-• 🤖 Android Development
-• 💻 macOS Development
-• ⌚ watchOS Development
-• 📺 tvOS Development
-• 🔗 API Integration
-• 🎨 UI/UX Design
-• ⚙️ CI/CD Implementation
-• 🔧 Git & Version Control
-• 🚀 MVP Development
-• 🔒 Blockchain & IoT App Development
-• 🛠️ Flutter State Management (Provider, Bloc, Riverpod)
+### 🛠️ Latest Projects
+Here are some of my recent projects:
 
-Feel free to reach out to discuss your project and how I can help you achieve your goals. Let's make your app stand out! 🌟
+- **AI-powered Homework Helper** - An innovative app to assist students with their homework using AI (under development).
+- **Premier League App Clone** - A mobile app inspired by the official Premier League app, built with Flutter.
+
+### 🚀 Open Source Contributions
+
+I’m passionate about open source and love contributing to projects that make a difference. Check out my contributions on:
+- [Flutter](https://github.com/flutter/flutter)
+- [React Native](https://github.com/facebook/react-native)
+
+Feel free to reach out if you have a project in mind or want to collaborate!
