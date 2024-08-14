@@ -12,7 +12,7 @@ Are you looking for a mobile app developer who can create an app for the next mi
 - Looking for a mobile app development service from design, development to release, and publish on the Play Store and App Store?
 - Seeking a mobile app developer who can transform your idea into reality?
 
-If any of these describe you, **[message me](mailto:nikunj.appz@gmail.com)**—I am here to help.
+If any of these describe you, **[message me](mailto:nikunj.cronative@gmail.com)**—I am here to help.
 
 ---
 
