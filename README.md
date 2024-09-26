@@ -17,7 +17,7 @@ If any of these describe you, **[message me](mailto:nikunj.cronative@gmail.com)*
 ---
 
 ### Who am I?
-I'm Nik, a Mobile App Developer with 10+ years of experience and a Master’s in Computer Science and Engineering.
+I'm Nik, a Mobile App Developer with 8+ years of experience and a Master’s in Computer Science and Engineering.
 
 I have collaborated with big brands, startups, and individuals to create mobile apps tailored to their needs. My work has been featured in market stores, and apps developed by me have garnered 10 million+ downloads, earning permanent spots on users' phones.
 
