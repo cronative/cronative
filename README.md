@@ -218,7 +218,6 @@ Here’s a complete selection of mobile apps I’ve developed, categorized by ty
 
 ### 💼 Let's Connect
 - **Website:** [nikunjm.com](http://nikunjm.com)
-- **Upwork:** [upwork.com/freelancers/nikunjm22](https://www.upwork.com/freelancers/nikunjm22)
 - **LinkedIn:** [linkedin.com/in/cronativedeveloper](https://www.linkedin.com/in/cronativedeveloper)
 - **GitHub:** [github.com/cronative](https://github.com/cronative)
 
