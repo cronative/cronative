@@ -2,7 +2,8 @@
 
 ### 🚀  Full-Stack Mobile & Web App Developer 
 
-🚀 iOS • Android • Flutter • React Native • React JS • Full Stack • Cross-Platform Expert🧠 8+ years of experience | Freelance + Corporate | Scalable, high-performance apps
+🚀 iOS • Android • Flutter • React Native • React JS • Full Stack • Cross-Platform Expert
+🧠 8+ years of experience | Freelance + Corporate | Scalable, high-performance apps
 
 ---
 
@@ -52,7 +53,7 @@ I’m a senior software engineer specializing in **mobile & web app development*
 
 ### 🚀 Portfolio
 
-Here’s a complete selection of mobile apps I’ve developed, categorized by type, along with key features, tools, and languages used:
+Here’s a complete selection of mobile apps I’ve developed, categorised by type, along with key features, tools, and languages used:
 
 #### **E-commerce & Retail Apps**
 - **[Megathy - Sell & Buy Your Grocery Online](https://apps.apple.com/gb/app/megathy-%D9%85%D9%82%D8%A7%D8%B6%D9%8A/id1227682497)**
@@ -184,7 +185,7 @@ Here’s a complete selection of mobile apps I’ve developed, categorized by ty
 
 - **[U by Emaar - Loyalty and Rewards](https://play.google.com/store/apps/details?id=com.emaartechnologies.ube)**
   - **Category:** Business & Rewards
-  - **Key Features:** Loyalty programs, reward tracking, personalized offers, secure payment gateway.
+  - **Key Features:** Loyalty programs, reward tracking, personalised offers, secure payment gateway.
   - **Tools & Languages:** React Native, Firebase, RESTful API.
 
 #### **Media & Entertainment Apps**
@@ -195,12 +196,12 @@ Here’s a complete selection of mobile apps I’ve developed, categorized by ty
 
 - **[Eurosport: Live, News & Scores](https://apps.apple.com/in/app/eurosport-live-news-scores/id324021126)**
   - **Category:** Sports & Entertainment
-  - **Key Features:** Live sports streaming, real-time scores, news updates, personalized notifications.
+  - **Key Features:** Live sports streaming, real-time scores, news updates, personalised notifications.
   - **Tools & Languages:** Swift, Firebase, RESTful API.
 
 - **[Next Big Idea Books in 15 Min](https://play.google.com/store/apps/details?id=com.heleo.nbic)**
   - **Category:** Media & Learning
-  - **Key Features:** Book summaries, audio content, personalized recommendations, offline access.
+  - **Key Features:** Book summaries, audio content, personalised recommendations, offline access.
   - **Tools & Languages:** React Native, Firebase, RESTful API.
 
 - **[Magic Money - Pay and Play](https://apps.apple.com/us/app/magic-money-pay-and-play/id1265088065)**
@@ -210,21 +211,11 @@ Here’s a complete selection of mobile apps I’ve developed, categorized by ty
 
 ---
 
-### 📈 GitHub Stats
-
-![Nikunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=cronative&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cronative&layout=compact&theme=radical)
-
----
-
 ### 💼 Let's Connect
 - **Website:** [nikunjm.com](http://nikunjm.com)
 - **LinkedIn:** [linkedin.com/in/cronativedeveloper](https://www.linkedin.com/in/cronativedeveloper)
 - **GitHub:** [github.com/cronative](https://github.com/cronative)
 
-Feel free to reach out if you have a project in mind or want to collaborate!
-
 ---
-
-**Warmly,**
-Nikunj M
+💬 Let’s Talk!
+Have an idea or need a reliable dev partner? Message me — I’ll turn your vision into a fully functional app with clean code and a professional delivery process.
