@@ -45,9 +45,9 @@ I’m a senior software engineer specializing in **mobile & web app development*
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cronative&show_icons=true&theme=default&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cronative&layout=compact)
 
 ---
 
