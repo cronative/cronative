@@ -1,27 +1,20 @@
 # 👋 Hi there, I'm Nik!
 
-### 🚀 Mobile App Freelancer | iOS, Flutter, React Native, Android and Ionic Developer
+### 🚀  Full-Stack Mobile & Web App Developer 
 
-Are you looking for a mobile app developer who can create an app for the next millions of users?
-
-### ARE YOU:
-- An individual, big company, or startup looking to build and create an Android or iOS app from scratch?
-- Searching for a mobile app developer to integrate new features into your existing Android or iOS app projects?
-- Friendly, reasonable, and understanding?
-- Someone who invests in the best to get better results?
-- Looking for a mobile app development service from design, development to release, and publish on the Play Store and App Store?
-- Seeking a mobile app developer who can transform your idea into reality?
-
-If any of these describe you, **[message me](mailto:nikunj.cronative@gmail.com)**—I am here to help.
+🚀 iOS • Android • Flutter • React Native • React JS • Full Stack • Cross-Platform Expert🧠 8+ years of experience | Freelance + Corporate | Scalable, high-performance apps
 
 ---
 
-### Who am I?
-I'm Nik, a Mobile App Developer with 8+ years of experience and a Master’s in Computer Science and Engineering.
+## 👨‍💻 About Me
 
-I have collaborated with big brands, startups, and individuals to create mobile apps tailored to their needs. My work has been featured in market stores, and apps developed by me have garnered 10 million+ downloads, earning permanent spots on users' phones.
+I’m a senior software engineer specializing in **mobile & web app development** for iOS, Android, tablets, desktops (macOS/Windows), and browsers. I bring ideas to life using **Flutter, React Native, React JS, Swift, Kotlin**, and modern backend technologies.
 
-Since joining Upwork, I have worked across various industries, including Education, Hospitality, Sales & Marketing, Real Estate, Media & Entertainment, Human Resources, Financial & Banking, E-commerce & Retail, and Transport & Automotive.
+- 🔧 Built 100+ apps: from MVPs to enterprise-grade solutions  
+- 💼 Worked with startups, funded SaaS products, and global brands  
+- 📲 Deployed apps on App Store & Google Play Store  
+- 🧪 Obsessed with clean code, performance & user experience  
+- 🤝 Open to freelance work, long-term contracts & collaborations
 
 ---
 
@@ -46,6 +39,14 @@ Since joining Upwork, I have worked across various industries, including Educati
 - **Integration:** Social Sign-In (Google, Facebook, Apple), In-App Purchases, Apple Pay, Google Pay, Push Notifications, ARKit, Google APIs (Maps, Places, Translate)
 - **Testing & Debugging:** Firebase Analytics, Crashlytics, Performance Monitoring, CI/CD pipelines
 - **UX/UI:** Material Design, Custom UI Elements, Animation, Lottie, SwiftUI
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
 
 ---
 
